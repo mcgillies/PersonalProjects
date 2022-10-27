@@ -1,0 +1,18 @@
+{
+    "Account name": "account",
+    "Account balance": 0,
+    "Players": [
+        {
+            "name": "Dave",
+            "team": "SAS",
+            "position": "PG",
+            "salary": 50
+        },
+        {
+            "name": "John",
+            "team": "SAS",
+            "position": "SG",
+            "salary": 30
+        }
+    ]
+}
